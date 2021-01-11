@@ -1,2 +1,2 @@
 # Digger
-Mini-game "Digger". Owner by Ulern.me
+Mini-game "Digger". Owner by Ulearn.me
